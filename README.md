@@ -10,7 +10,8 @@ Create the file ~/Library/ODBC/odbc.ini
 
 and fill the file with with 
 
-`[osmanli]
+``
+[osmanli]
 
 Description =Osmanli Bond Veritabani
 
@@ -22,7 +23,8 @@ Server = 212.15.8.153
 
 Setup=/usr/local/lib/libtdsodbc.so
 
-Port = 1433`
+Port = 1433
+`
 
 s
 
