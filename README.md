@@ -9,9 +9,9 @@ Create the file ~/Library/ODBC/odbc.ini
 `vi ~/Library/ODBC/odbc.ini`
 
 and fill the file with with 
-` osmanli]
+` osmanli]`
 
-Description =Osmanli Bond Veritabani
+`Description =Osmanli Bond Veritabani
 
 TDS_Version = 7.2
 
