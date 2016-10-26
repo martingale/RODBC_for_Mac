@@ -9,6 +9,7 @@ Create the file ~/Library/ODBC/odbc.ini
 `vi ~/Library/ODBC/odbc.ini`
 
 and fill the file with with 
+
 ` [osmanli]`
 
 `Description =Osmanli Bond Veritabani
