@@ -18,6 +18,6 @@ Server = 212.15.8.153
 Setup=/usr/local/lib/libtdsodbc.so
 Port = 1433`
 
-
+s
 
 `install.packages("RODBC")`
